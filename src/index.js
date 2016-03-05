@@ -1,4 +1,4 @@
-// 'use strict';
+﻿'use strict';
 
 var car = require('js/car.js');
 
